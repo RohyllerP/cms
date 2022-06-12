@@ -29,7 +29,7 @@ export default function Home() {
         >
           <Box mt="20px" textAlign="justify" p="35px" bg={bg2}>
             <Heading>Portal web como alternativa de solución para mejorar la calidad
-              evaluativa online del docente de quinto "A", en el Colegio María Santísima Rastrojos Estado Lara
+              evaluativa online del docente de quinto A, en el Colegio María Santísima Rastrojos Estado Lara
             </Heading>
             <Box py="35px" align="center">
               <Text fontWeight="600" fontSize="2xl">Rohyller Pereira</Text>
